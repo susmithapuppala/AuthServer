@@ -1,1 +1,1 @@
-# oauth flow granttype= authcode
+# BASIC OAuth Flow Grant type = authcode
